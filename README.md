@@ -20,4 +20,6 @@ Used Dependencies
             }
     
 
+#App Preview 
+
 <img src="app_preview.png" width="40%">  <img src="app_preview2.png" width="40%">
