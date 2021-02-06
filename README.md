@@ -19,4 +19,5 @@ Used Dependencies
             
             }
     
-![app preview](app_preview.png?raw=true "App Preview" ){:height="20%" width="20%"}
+
+<img src="app_preview.png" width="40%">  <img src="app_preview2.png" width="40%">
