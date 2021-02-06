@@ -19,4 +19,4 @@ Used Dependencies
             
             }
     
-![app preview](https://drive.google.com/file/d/1wMcS57zwLuo2pN99VSB0ipWIb5hcP6-J/view?usp=sharing)
+![app preview](app_preview.png?raw=true "App Preview" )
