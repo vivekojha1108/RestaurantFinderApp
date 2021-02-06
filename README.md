@@ -19,4 +19,4 @@ Used Dependencies
             
             }
     
-![app preview](app_preview.png?raw=true "App Preview" ){height="20%" width="20%"}
+![app preview](app_preview.png?raw=true "App Preview" ){:height="20%" width="20%"}
