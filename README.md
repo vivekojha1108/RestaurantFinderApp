@@ -19,7 +19,13 @@ Used Dependencies
             
             }
     
+    
+ Uses Permissions
+    
+            <uses-permission android:name="android.permission.INTERNET" />
+            <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+            <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
 #App Preview 
 
-<img src="app_preview.png" width="40%">  <img src="app_preview2.png" width="40%">
+<img src="app_preview.png" width="30%">  <img src="app_preview2.png" width="30%">
